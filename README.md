@@ -13,11 +13,9 @@ Yazılım dünyasına yeni adım atmış, öğrenmeye ve keşfetmeye meraklı bi
 - **Araçlar:** Git, VS Code
 
 ## 📬 Bana Ulaşın
-- 💼 LinkedIn: [[Elif Ayfer Noyın] (https://www.linkedin.com/in/elif-ayfer-noy%C4%B1n-56b6b9444?utm_source=share_via&utm_content=profile&utm_medium=member_android)]
-- 📧 E-posta: [[elifnoyinn@gmail.com] (mailto:elifnoyinn@gmail.com)]
+- 💼 **LinkedIn:** https://www.linkedin.com/in/elif-ayfer-noy%C4%B1n-56b6b9444?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 📧 **E-posta:** elifnoyinn@gmail.com
 
-- https://www.linkedin.com/in/elif-ayfer-noy%C4%B1n-56b6b9444?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- [E-posta Adresiniz](mailto:eposta@adresiniz.com)
 <p align="center">
   <i>"Her büyük yazılımcı, bir zamanlar hiçbir şey bilmeyen bir yeni başlayandı."</i>
 </p>
